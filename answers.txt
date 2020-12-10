@@ -1,0 +1,3 @@
+a. Performing the task manually would have taken a long time, depending on the number of articles. To do it, you would have to open the article manually, and do crtl+f for both Netanyahu and Gantz.
+b. Every task that requires performing a search for predetermined content can be solved efficiently using a simmilar script.
+c. We can do an infinite loop with a timeout of 60 minutes at the beggining of each itteration. First we'll compare the new articles against the existing ones in the file. if the article does not exist, we can update the beggining of the file with the amount of new articles and print the new lines at the end of the file. If it exists we can skip it.
